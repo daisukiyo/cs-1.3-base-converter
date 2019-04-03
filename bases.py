@@ -145,5 +145,4 @@ def main():
 
 
 if __name__ == '__main__':
-    encode(1234, 2)
-    # main()
+    main()
